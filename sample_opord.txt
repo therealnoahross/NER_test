@@ -1,0 +1,28 @@
+OPERATION ORDER 001-25
+
+1. SITUATION
+   a. Enemy Forces: The 3rd Motorized Rifle Brigade is located at Grid AB 1234 5678. 
+      Enemy strength is estimated at 2,000 personnel with T-72 tanks and BMP-2 vehicles.
+   
+   b. Friendly Forces: 1st Battalion, 37th Armor Regiment is positioned at FOB Thunder.
+      2nd Brigade Combat Team provides support from the north.
+
+2. MISSION
+   1-37 AR attacks to seize Objective Falcon NLT 0600 hours on D-Day.
+
+3. EXECUTION
+   a. Commander's Intent: Destroy enemy forces in zone to enable follow-on operations.
+   
+   b. Concept of Operations:
+      - Alpha Company attacks along Axis Red to Phase Line Blue
+      - Bravo Company supports by fire from Hill 231
+      - CPT Johnson commands Alpha Company
+      - CPT Williams commands Bravo Company
+
+4. SERVICE SUPPORT
+   - Ammunition resupply at Logistics Point Charlie
+   - Medical evacuation via Route Green to Field Hospital Delta
+
+5. COMMAND AND SIGNAL
+   - COL Smith commands 1-37 AR from TAC CP at Grid AB 1200 5600
+   - Primary frequency: 45.50 MHz

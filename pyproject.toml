@@ -1,0 +1,20 @@
+[project]
+name = "ingestion-pipeline"
+version = "0.1.0"
+description = "Document ingestion pipeline for entity and relationship extraction"
+requires-python = ">=3.11"
+dependencies = [
+    "redis>=5.0.0",
+    "dspy>=2.5.0",
+    "pydantic>=2.0.0",
+    "pymupdf>=1.24.0",
+]
+
+[project.scripts]
+ingest = "agent:main"
+
+[tool.uv]
+dev-dependencies = [
+    "pytest>=8.0.0",
+    "ipython>=8.0.0",
+]

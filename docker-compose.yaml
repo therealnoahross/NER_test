@@ -1,0 +1,25 @@
+# Local Redis for development
+#
+# Start: docker-compose up -d
+# Stop:  docker-compose down
+# View:  http://localhost:8001 (RedisInsight)
+
+services:
+  redis:
+    image: redis/redis-stack:latest
+    container_name: ingestion-redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"    # Redis server
+      - "8001:8001"    # RedisInsight web interface
+    volumes:
+      - redis-data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  redis-data:
+    name: ingestion_redis_data
