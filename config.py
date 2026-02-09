@@ -29,5 +29,5 @@ LLM_MODEL = "openai/gemma3"
 # =============================================================================
 # Chunking Settings
 # =============================================================================
-CHUNK_SIZE = 500  # words per chunk
-CHUNK_OVERLAP = 50  # overlapping words between chunks
+CHUNK_SIZE = 200  # words per chunk (reduced to avoid LLM response truncation)
+CHUNK_OVERLAP = 30  # overlapping words between chunks
