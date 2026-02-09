@@ -1,9 +1,9 @@
 """
 Document text extraction.
 
-Handles loading text from various document formats.
-For now, supports .txt and .pdf files.
-Docling can be added later for more advanced extraction.
+Right now this does not use docling, and it only takes in pdf or txt files.
+
+I plan on changing this to docling soon, but a working product was needed first.
 """
 
 from pathlib import Path
@@ -12,11 +12,7 @@ from pathlib import Path
 def extract_text(file_path: str | Path) -> str:
     """
     Extract text from a document.
-    
-    Currently supports:
-    - .txt files (direct read)
-    - .pdf files (using PyMuPDF/fitz)
-    
+   
     Args:
         file_path: Path to the document.
         

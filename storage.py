@@ -136,5 +136,5 @@ def flush_triples(r: redis.Redis, confirm: bool = True) -> bool:
     for key in r.scan_iter("entity:*"):
         r.delete(key)
     
-    print("✓ All triples and entities deleted.")
+    print("All triples and entities deleted.")
     return True

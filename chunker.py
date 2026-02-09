@@ -1,6 +1,4 @@
 """
-Text chunking utilities.
-
 Splits large documents into smaller chunks for LLM processing.
 """
 
@@ -13,15 +11,7 @@ def chunk_text(
     overlap: int = CHUNK_OVERLAP
 ) -> list[str]:
     """
-    Split text into overlapping chunks by words.
-    
-    Args:
-        text: The full text to chunk.
-        chunk_size: Maximum words per chunk.
-        overlap: Number of overlapping words between chunks.
-        
-    Returns:
-        list[str]: List of text chunks.
+    Returns -> list[str]: List of text chunks.
     """
     words = text.split()
     chunks = []
@@ -31,6 +21,7 @@ def chunk_text(
     
     step = chunk_size - overlap
     
+    #iterate through the words to create a chunk and add to the list of chunks
     for i in range(0, len(words), step):
         chunk = " ".join(words[i:i + chunk_size])
         if chunk:
@@ -39,5 +30,5 @@ def chunk_text(
         # Stop if we've captured all words
         if i + chunk_size >= len(words):
             break
-    
+    #list of chunks 
     return chunks

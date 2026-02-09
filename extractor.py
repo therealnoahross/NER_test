@@ -73,7 +73,7 @@ def extract_from_chunk(text: str, chunk_id: int, source: str) -> ExtractionResul
     """
     # Skip empty or very short chunks
     if not text or len(text.strip()) < 20:
-        print(f"  ⚠ Chunk {chunk_id} is too short, skipping")
+        print(f"  Chunk {chunk_id} is too short, skipping")
         return ExtractionResult(
             source_file=source,
             chunk_id=chunk_id,
@@ -136,7 +136,7 @@ def extract_from_chunk(text: str, chunk_id: int, source: str) -> ExtractionResul
         )
         
     except json.JSONDecodeError as e:
-        print(f"  ⚠ JSON parse error for chunk {chunk_id}: {e}")
+        print(f"    JSON parse error for chunk {chunk_id}: {e}")
         print(f"    Cleaned entities: {entities_json[:200] if 'entities_json' in dir() else 'N/A'}...")
         print(f"    Cleaned triples: {triples_json[:200] if 'triples_json' in dir() else 'N/A'}...")
         return ExtractionResult(
@@ -146,7 +146,7 @@ def extract_from_chunk(text: str, chunk_id: int, source: str) -> ExtractionResul
             triples=[]
         )
     except (KeyError, TypeError) as e:
-        print(f"  ⚠ Data structure error for chunk {chunk_id}: {e}")
+        print(f"    Data structure error for chunk {chunk_id}: {e}")
         print(f"    Parsed entities structure: {entities_raw[:3] if 'entities_raw' in dir() else 'N/A'}")
         print(f"    Parsed triples structure: {triples_raw[:1] if 'triples_raw' in dir() else 'N/A'}")
         return ExtractionResult(
