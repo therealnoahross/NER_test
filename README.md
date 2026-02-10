@@ -49,12 +49,12 @@ uv run python agent.py --stats
 uv run python agent.py --listen
 ```
 
-## Switching to Ares Redis
+## Switch to Ares 
 
 Edit `config.py`:
 
 ```python
-USE_LOCAL_REDIS = False  # Change from True to False
+USE_LOCAL_REDIS = True  # Change from True to False, need to update link to correct redis database
 ```
 
 ## Project Structure

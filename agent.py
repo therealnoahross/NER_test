@@ -41,7 +41,7 @@ def setup_llm():
         model_type="chat"
     )
     dspy.configure(lm=lm)
-    print("✓ LLM configured\n")
+    print("LLM configured\n")
 
 
 def process_document(file_path: str, r) -> dict:
@@ -132,7 +132,7 @@ def listen_mode(r):
                 print(f"✓ Published completion for {file_path}")
             except Exception as e:
                 r.publish("processing_complete", f"{file_path}|error|{str(e)}")
-                print(f"✗ Error processing {file_path}: {e}")
+                print(f"Error processing {file_path}: {e}")
 
 
 def show_stats(r):
