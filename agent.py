@@ -63,12 +63,12 @@ def process_document(file_path: str, r) -> dict:
     # 1. Extract text
     print("\n[1/4] Extracting text...")
     text = extract_text(file_path)
-    print(f"  ✓ Extracted {len(text):,} characters")
+    print(f"Extracted {len(text):,} characters")
     
     # 2. Chunk
     print("\n[2/4] Chunking...")
     chunks = chunk_text(text)
-    print(f"  ✓ Created {len(chunks)} chunks")
+    print(f"Created {len(chunks)} chunks")
     
     # 3. Extract entities and triples
     print("\n[3/4] Extracting entities and triples...")

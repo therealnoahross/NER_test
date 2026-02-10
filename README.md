@@ -1,6 +1,6 @@
 # Ingestion Pipeline
 
-Extracts entities and relationships from documents using LLMs, stores them as triples in Redis.
+Extracts entities and relationships from documents using LLMs, stores them as triples and as entities in Redis.
 
 ## Quick Start
 

@@ -25,9 +25,9 @@ def get_redis_client() -> redis.Redis:
     
     try:
         client.ping()
-        print(f"✓ Connected to Redis at {REDIS_HOST}:{REDIS_PORT}")
+        print(f"Connected to Redis at {REDIS_HOST}:{REDIS_PORT}")
     except redis.ConnectionError as e:
-        print(f"✗ Failed to connect to Redis: {e}")
+        print(f"Failed to connect to Redis: {e}")
         raise
     
     return client
@@ -123,7 +123,7 @@ def flush_triples(r: redis.Redis, confirm: bool = True) -> bool:
         bool: True if flushed, False if cancelled.
     """
     if confirm:
-        response = input("⚠ Delete all triples and entities? (y/N): ")
+        response = input("Delete all triples and entities? (y/N): ")
         if response.lower() != 'y':
             print("  Cancelled.")
             return False
