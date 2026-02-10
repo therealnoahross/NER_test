@@ -12,7 +12,7 @@ TO: 2MBCT
       
 (U) SUMMARY 
 (U) Task Organization: Annex A.
-1. (U) SITUATION: The U.S. and Republic of Torbia (South Torbia) are allied forccir mutual defense per Reference f (U). U.S. air, land, and naval forces, under the command and control of CJTF-7, deployed to the region in response to continued aggression by the Democratic People’s Republic of Torbia (North Torbia) against South Torbia. North Torbia began deploying its Southern Army toward the international border(IB) on 22 June 2024. On 8 July 2024, the North Torbian 4 (TP) Mechanized Infantry Division (MECHINF DIV) and 6 (TP) MECHINF DIV were staged in assembly areas (AA) along the IB with South Torbia, organized as Division Task Groups (DTG), stockpiling supplies, and conducting offensive rehearsal exercises. VII Corps HQ arrived at APOD HOUSTON (15RTN900771) on 14 July 2024 to serve as CJTF-7’s Combined Forces Land Component. North Torbia began strikes on South Torbia on the night of 25 July 2024 and destroyed six Sing Komm Low Earth Orbit satellites in addition to severing undersea fiber optic data links between South Torbia and other Asian nations. 4 (TP) MECHINF DTG and 6 (TP) MECHINF DTG conducted a full-scale invasion of South Torbia on 26 July 2024. On 27 Jul 2024, 4 (TP) MECHINF DTG attacked to seize Shreveport and other population centers in South Torbia with a high volume of nonpersistent chemical munitions delivered by SSBM and MLRS. North Torbia has demanded the annexation of South Torbian territory heavily populated with large ethnic North Torbian enclaves in northern and northeastern South Torbia, insists on immediate removal of all Western forces from the region, and demands control of South Torbia’s nuclear power resources and infrastructure. The International Community responded with the following actions: the United Nations (UN) issued UNSCR 2581 condemning North Torbia’s invasion of South Torbia and invoking Chapter VII of the UN Charter, the U.S. Ambassador to South Torbia issued a disaster declaration, the President of the United States authorized military operations in the Luzon Island Region, and Australia deployed its 1 (AU) Division to APOD HOUSTON to serve as the VII Corps Reserve. On 30 July 2024, CJTF-7 initiated an air campaign and naval operations against North Torbian forces with 5 Air Expeditionary Task Force (5 AETF) and Carrier Task Force-70 (CTF-70)). South Torbian forces continue to defend in depth to delay North Torbian forces, trading space for time to allow VII Corps Forces to initiate forcible entry operations into AO JAYHAWK and execute multidomain operations to defeat enemy forces.
+1. (U) SITUATION: The U.S. and Republic of Torbia (South Torbia) are allied forccir mutual defense per Reference f (U). U.S. air, land, and naval forces, under the command and control of CJTF-7, deployed to the region in response to continued aggression by the Democratic Peopleï¿½s Republic of Torbia (North Torbia) against South Torbia. North Torbia began deploying its Southern Army toward the international border(IB) on 22 June 2024. On 8 July 2024, the North Torbian 4 (TP) Mechanized Infantry Division (MECHINF DIV) and 6 (TP) MECHINF DIV were staged in assembly areas (AA) along the IB with South Torbia, organized as Division Task Groups (DTG), stockpiling supplies, and conducting offensive rehearsal exercises. VII Corps HQ arrived at APOD HOUSTON (15RTN900771) on 14 July 2024 to serve as CJTF-7ï¿½s Combined Forces Land Component. North Torbia began strikes on South Torbia on the night of 25 July 2024 and destroyed six Sing Komm Low Earth Orbit satellites in addition to severing undersea fiber optic data links between South Torbia and other Asian nations. 4 (TP) MECHINF DTG and 6 (TP) MECHINF DTG conducted a full-scale invasion of South Torbia on 26 July 2024. On 27 Jul 2024, 4 (TP) MECHINF DTG attacked to seize Shreveport and other population centers in South Torbia with a high volume of nonpersistent chemical munitions delivered by SSBM and MLRS. North Torbia has demanded the annexation of South Torbian territory heavily populated with large ethnic North Torbian enclaves in northern and northeastern South Torbia, insists on immediate removal of all Western forces from the region, and demands control of South Torbiaï¿½s nuclear power resources and infrastructure. The International Community responded with the following actions: the United Nations (UN) issued UNSCR 2581 condemning North Torbiaï¿½s invasion of South Torbia and invoking Chapter VII of the UN Charter, the U.S. Ambassador to South Torbia issued a disaster declaration, the President of the United States authorized military operations in the Luzon Island Region, and Australia deployed its 1 (AU) Division to APOD HOUSTON to serve as the VII Corps Reserve. On 30 July 2024, CJTF-7 initiated an air campaign and naval operations against North Torbian forces with 5 Air Expeditionary Task Force (5 AETF) and Carrier Task Force-70 (CTF-70)). South Torbian forces continue to defend in depth to delay North Torbian forces, trading space for time to allow VII Corps Forces to initiate forcible entry operations into AO JAYHAWK and execute multidomain operations to defeat enemy forces.
 1.a. (U) Friendly Forces.
 1.a.1. (U) Higher Headquarters two Levels Up.
 
@@ -31,7 +31,7 @@ TO: 2MBCT
           1.a.1.c.8. : Terrain: Pre-conflict international border between North Torbia and South Torbia restored.
           1.a.1.c.9. : Civil: South Torbia government control established within pre-conflict borders.
 1.a.2. (U) Higher Headquarters one Level Up. 
-       1.a.2.a. (U) Mission: The 101st ABN (AASLT) executes a L2A2 to disrupt North Torbian forces in AO EAGLE NLT POD 14-15 AUG 2024 IOT enable 21st ABN offensive operations.
+       1.a.2.a. (U) Mission: The 101stï¿½ABN (AASLT) executes a L2A2 to disrupt North Torbian forces in AO EAGLE NLT POD 14-15 AUG 2024 IOT enable 21st ABN offensive operations.
        1.a.2.b. (U) Purpose. The purpose of this operation is to execute a forcible entry to defeat North Torbian forces and restore the pre-conflict international border between North and South Torbia.
        1.a.2.c. (U) Key Tasks.
           1.a.2.c.1. (U) Command and Control an L2A2 from Belesia (FCKY) to AO EAGLE (FJLA Training Area).
@@ -50,7 +50,7 @@ TO: 2MBCT
 1.b.4. Final OBJ: OBJ TITANS (Shughart-Gordon)
 2. (U) MISSION:  2MBCT (TF STRIKE) conducts a vertical envelopment to disrupt 4th DTG support area and seize key terrain in AO BEAR NLT H+72 IOT build combat power and enable 21st ABN DIV offensive operations.
 3. (U) EXECUTION: 
-3.a. (U) Commander’s Intent. 
+3.a. (U) Commanderï¿½s Intent. 
      3.a.1. (U) Key Tasks.
         3.a.1.a. (U) Conduct Air Assault forcible entry across dispersed LZs to mass PLT-sized cohesive units across AO BEAR.
         3.a.1.b. (U) Gain and maintain contact with ENY with sensors and fires before maneuver elements make initial contact.
@@ -63,7 +63,7 @@ TO: 2MBCT
        3.a.2.b. (U) Enemy: 4 DTG rear area forces destroyed in AO BEAR, 4 DTG posturing for C-ATK outside AO BEAR.
        3.a.2.c. (U) Terrain: Key terrain seized in AO BEAR and GLOCs controlled.
        3.a.2.d. (U) Civil: Collateral damage minimized and civilians unable to influence 2MBCT operations.
-  3.b. (U) Concept of the Operation. The purpose of this operation is to land in the enemy’s rear area, disrupting their operations and denying their freedom of maneuver to enable 21 ABN DIV offensive operations. Decisive to this operation is the seizure of OBJ BADGER and OBJ TIGER by the end of mission night #3 (17 0300 AUG 24) with the MFRC observing OBJ TITANs and key enemy AoAs IOT posture for the enemy counterattack and future friendly offensive operations. This operation will be conducted in five phases: Phase I (Planning and Preparation), Phase II (L2A2), Phase III A (Destroy Enemy), Phase III B (Seize Key Terrain), Phase III C (Hasty Defense), Phase IV (Defend) and Phase V (Attack). This operations order focuses on Phases I-III.
+  3.b. (U) Concept of the Operation. The purpose of this operation is to land in the enemyï¿½s rear area, disrupting their operations and denying their freedom of maneuver to enable 21 ABN DIV offensive operations. Decisive to this operation is the seizure of OBJ BADGER and OBJ TIGER by the end of mission night #3 (17 0300 AUG 24) with the MFRC observing OBJ TITANs and key enemy AoAs IOT posture for the enemy counterattack and future friendly offensive operations. This operation will be conducted in five phases: Phase I (Planning and Preparation), Phase II (L2A2), Phase III A (Destroy Enemy), Phase III B (Seize Key Terrain), Phase III C (Hasty Defense), Phase IV (Defend) and Phase V (Attack). This operations order focuses on Phases I-III.
 
      3.b.1. (U) Phase I: Plan and Prep begins with receipt of mission and ends with wheels up on lift one 13 AUG 24. Critical tasks for this phase include BDE OPORD brief, CDR back briefs, BDE CAR, cold load training, and RXLs.
      3.b.2. (U) Phase II: L2A2 begins with wheels up lift 1 and ends with wheels down lift 1in AO BEAR. Critical tasks for this phase include cherry/Ice call, RON, Bump plans, and intel updates.
@@ -86,7 +86,7 @@ At endstate (NLT 17 1800 AUG 24), 2MBCT is postured to conduct a transfer of aut
 
 3.c.7. Phase V: Attack. TBP upon receipt of 21ABN DIV Order.
 
-  3.d. Scheme of Tactical Deception. The purpose of tactical deception in PH IIIA – IIIB is to deter enemy forces on OBJ TITANS from reinforcing IVO OBJs TIGER and BADGER. MFRC feigns combat power east of OBJ TITANS via decoy emitters along and between PL HAZLENUT and PL ELM. 2-502 feigns a M119 BTRY via decoy emitters south of OBJ TIGER IVO PAA 19. 1-502 emplaces disruption obstacles and decoy emitters from PL ELM to PL DRACAENA in preparation for PH IIIC-IV. In PH IIIC – IV, deception operations emphasize feigning a defense in depth IOT delay enemy counterattack of OBJs TIGER and BADGER, draw enemy forces South, and increase time for FF’s to establish a hasty defense on the OBJs. 1-502 continues to emplace disruption obstacles and decoy emitters from PL DRACAENA to PL STEEL. Subsequent deception operations are contingent upon, and planned in conjunction with, the arrival of the GAF.
+  3.d. Scheme of Tactical Deception. The purpose of tactical deception in PH IIIA ï¿½ IIIB is to deter enemy forces on OBJ TITANS from reinforcing IVO OBJs TIGER and BADGER. MFRC feigns combat power east of OBJ TITANS via decoy emitters along and between PL HAZLENUT and PL ELM. 2-502 feigns a M119 BTRY via decoy emitters south of OBJ TIGER IVO PAA 19. 1-502 emplaces disruption obstacles and decoy emitters from PL ELM to PL DRACAENA in preparation for PH IIIC-IV. In PH IIIC ï¿½ IV, deception operations emphasize feigning a defense in depth IOT delay enemy counterattack of OBJs TIGER and BADGER, draw enemy forces South, and increase time for FFï¿½s to establish a hasty defense on the OBJs. 1-502 continues to emplace disruption obstacles and decoy emitters from PL DRACAENA to PL STEEL. Subsequent deception operations are contingent upon, and planned in conjunction with, the arrival of the GAF.
  
 3.e. (U) Tasks to Subordinate Units.
 3.e.1. (U) 1-502.
@@ -164,26 +164,102 @@ At endstate (NLT 17 1800 AUG 24), 2MBCT is postured to conduct a transfer of aut
 3.e.9.b. (U) Provide one Sapper PLT to 2-502 IN BN.
 3.f. (U) Coordinating Instructions:
 3.f.1. (U) Planning Timeline.
-TimeEventLocationAudience17 1300 JULL2A2 AMCMWild Turkey Conf RoomBDE S3, BAO, S2, FSO, S4, S6
-BN S318 1400 JULIC/Fires RXLSabo GymBDE S3, FSO, S2
+Time
+Event
+Location
+Audience
+17 1300 JUL
+L2A2 AMCM
+Wild Turkey Conf Room
+BDE S3, BAO, S2, FSO, S4, S6
+BN S3
+18 1400 JUL
+IC/Fires RXL
+Sabo Gym
+BDE S3, FSO, S2
 FSCOORD, FA BN Staff
-BN S3, FSO, S216 1500 JULSUST RXLSabo GymBDE CSM, S3, S4, MEDO
-BN CSMs, S3, S4, MEDO19 1000 JULCAR #1Sabo GymBDE Top 5, Staff Primaries
+BN S3, FSO, S2
+16 1500 JUL
+SUST RXL
+Sabo Gym
+BDE CSM, S3, S4, MEDO
+BN CSMs, S3, S4, MEDO
+19 1000 JUL
+CAR #1
+Sabo Gym
+BDE Top 5, Staff Primaries
 BN Top 5
-CO CDRs24 1500 JULL2A2 AMBMCRBDE Top 5, S2, FSO, S4, S6
-BN CDR, S325 1300 JULDIV CAR #1TBDBDE Top 5, S2, FSO
-BN CMD Teams29 JULIC/Fires RXL TBDBDE S3, FSO, S2
+CO CDRs
+24 1500 JUL
+L2A2 AMB
+MCR
+BDE Top 5, S2, FSO, S4, S6
+BN CDR, S3
+25 1300 JUL
+DIV CAR #1
+TBD
+BDE Top 5, S2, FSO
+BN CMD Teams
+29 JUL
+IC/Fires RXL 
+TBD
+BDE S3, FSO, S2
 FSCOORD, FA BN Staff
-BN S3, FSO29 JULSUST RXLTBDBDE CSM, S3, S4, MEDO
-BN CSMs, S3, S4, MEDO30 JULCAR #2TBDBDE Top 5, Staff Primaries
+BN S3, FSO
+29 JUL
+SUST RXL
+TBD
+BDE CSM, S3, S4, MEDO
+BN CSMs, S3, S4, MEDO
+30 JUL
+CAR #2
+TBD
+BDE Top 5, Staff Primaries
 BN Top 5
-CO CDRs03-04 AUGTorch/Advon05-08 AUGMain Body Bus Movements06 0930 AUGL2A2 AMB #2MCRTBD09 1400 AUGDIV CAR #2TBDTBD10 AUGTrail Bus Movement11 AUG (T)Lift 1 Full Dress RehearsalCAAFAll Lift 1 PAX13 AUGLift 1 – CAAF to RON SitesCAAF
-RON SitesAll Lift 1 PAX14 2230 AUGH-HR
-Lift 1 W/D AO BEARAO BEARAll Lift 1 PAX17 AUGTOAAO BEAR 
+CO CDRs
+03-04 AUG
+Torch/Advon
+
+
+05-08 AUG
+Main Body Bus Movements
+
+
+06 0930 AUG
+L2A2 AMB #2
+MCR
+TBD
+09 1400 AUG
+DIV CAR #2
+TBD
+TBD
+10 AUG
+Trail Bus Movement
+
+
+11 AUG (T)
+Lift 1 Full Dress Rehearsal
+CAAF
+All Lift 1 PAX
+13 AUG
+Lift 1 ï¿½ CAAF to RON Sites
+CAAF
+RON Sites
+All Lift 1 PAX
+14 2230 AUG
+H-HR
+Lift 1 W/D AO BEAR
+AO BEAR
+All Lift 1 PAX
+17 AUG
+TOA
+AO BEAR
+
+ 
      3.f.2. (U) [1-502 IN, 2-502 IN, 1-26 IN, 1-320 FA, MFRC, SHHC] Provide bottom up refinement to Appendix 5 tab B Air Movement Table to the BAO CPT Logan McBride NLT 16 1300 AUG 24. Refer to Enclosure 2. Combat Power Buildup for initial A/C allocation..
      3.f.3. (U) [1-502 IN, 2-502 IN, 1-26 IN, 1-320 FA, MFRC, SHHC] Complete SUAS Qualification and Currency Status (ENCL 1) and return to BAO NLT 12 July 2024. POC is CPT Logan McBride at logan.b.mcbride.mil@army.mil.
      3.f.4. (U) [1-502 IN, 2-502 IN, 1-26 IN, 1-320 FA, MFRC, SHHC] Identify 3x Stinger Teams and provide crew roster (each team consisting of 2x personnel, Team Chief and Gunner) to primary CPT Currie at christopher.j.currie5.mil@army.mil and secondary CW2 Hamilton at matthew.b.hamilton7.mil@army.mil NLT 24JUL24. Total of 3x Stinger Teams consisting of 6 total personnel.
-     3.f.5. (U) [1-502 IN, 2-502 IN, 1-26 IN, 1-320 FA, MFRC, SHHC] BPT provide all Stinger Team Personnel and signature card holder during RSOI at FJLA to receive Stinger MANPADS and Miles Gear training/operations and sign for the equipment. Plan for this to be conducted over a 3–4-hour timeframe.
+     3.f.5. (U) [1-502 IN, 2-502 IN, 1-26 IN, 1-320 FA, MFRC, SHHC] BPT provide all Stinger Team Personnel and signature card holder during RSOI at FJLA to receive Stinger MANPADS and Miles Gear training/operations and sign for the equipment. Plan for this to be conducted over a 3ï¿½4-hour timeframe.
      3.f.6. (U) [1-502 IN, 2-502 IN, 1-26 IN, 1-320 FA, MFRC, SHHC] Provide by name roster of personnel who will operate C-sUAS 7x Dronebuster BLK 3, 5x Bal Chatri, and 9x MODI during 24-10 IOT disrupt / deny Red Air sUAS operations. Roster is due to primary CPT Currie at christopher.j.currie5.mil@army.mil and secondary CW2 Hamilton at matthew.b.hamilton7.mil@army.mil NLT 24JUL24.
      3.f.7. (U) [1-502 IN, 2-502 IN, 1-26 IN, 1-320 FA, MFRC, SHHC] BPT provide all C-UAS personnel during RSOI to receive familiarization and hands-on training from PEO M&S IFRCO C-sUAS MTT personnel.
 
@@ -213,7 +289,18 @@ Lift 1 W/D AO BEARAO BEARAll Lift 1 PAX17 AUGTOAAO BEAR
 4.a.6. (U) Medical
 4.a.6.a. (U) See Appendix 3 to Annex F Health Services Support.	
 5. (U) COMMAND AND SIGNAL:
-BDE -> BN: VOICEBDE -> BN DIGITALP: UPPER TI (TEAMS/ICE) P: UPPER TIA: MUOS (SBU-E)A: MMCC: TSMC: TAK-LTEE: FM E: TAK-TSME 2: HF
+BDE -> BN: VOICE
+BDE -> BN DIGITAL
+P: UPPER TI (TEAMS/ICE) 
+P: UPPER TI
+A: MUOS (SBU-E)
+A: MMC
+C: TSM
+C: TAK-LTE
+E: FM 
+E: TAK-TSM
+E 2: HF
+
 5.a. (U) Succession of Command.  STRIKE 6, TALON 6, FALCON 6, SPADER 6.
 5.b. (U) Command posts. See Base Orders
 ACKNOWLEDGE. 
@@ -231,21 +318,21 @@ S3
 
 ANNEX:
 
-Annex A – Task Organization
-Annex B – Intelligence 
-Annex C – Operations
-Annex D – Fires
-Annex E – Protection
-Annex F – Sustainment 
-Annex H – Signal
-Annex L – Information Collection
+Annex A ï¿½ Task Organization
+Annex B ï¿½ Intelligence 
+Annex C ï¿½ Operations
+Annex D ï¿½ Fires
+Annex E ï¿½ Protection
+Annex F ï¿½ Sustainment 
+Annex H ï¿½ Signal
+Annex L ï¿½ Information Collection
 
 
 
 Attachments:
 
-Enclosure 1 – SUAS Qualification and Currency Status Memorandum 
-Enclosure 2 – Combat Power Buildup
+Enclosure 1 ï¿½ SUAS Qualification and Currency Status Memorandum 
+Enclosure 2 ï¿½ Combat Power Buildup
 
 
      
