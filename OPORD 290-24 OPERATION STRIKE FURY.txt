@@ -1,0 +1,273 @@
+coOPORD 290-24 OPERATION STRIKE FURY] 2MBCT, 101 ABN DIV (AASLT) and FT Campbell
+DTG: 15 0900 July 2024 
+FM: CDR 2/101 MBCT (AASLT) and FT Campbell 
+
+TO: 2MBCT
+
+(U) References: 
+
+    a. OPORD 197-24 [JRTC 24-10 L2A2] (EAGLE FURY) (U)
+    b. WARNO 1 to OPORD 197-24 [JRTC 24-10 L2A2] 
+    c. WARNO 2 to OPORD 197-24 [JRTC 24-10 L2A2] 
+      
+(U) SUMMARY 
+(U) Task Organization: Annex A.
+1. (U) SITUATION: The U.S. and Republic of Torbia (South Torbia) are allied forccir mutual defense per Reference f (U). U.S. air, land, and naval forces, under the command and control of CJTF-7, deployed to the region in response to continued aggression by the Democratic People’s Republic of Torbia (North Torbia) against South Torbia. North Torbia began deploying its Southern Army toward the international border(IB) on 22 June 2024. On 8 July 2024, the North Torbian 4 (TP) Mechanized Infantry Division (MECHINF DIV) and 6 (TP) MECHINF DIV were staged in assembly areas (AA) along the IB with South Torbia, organized as Division Task Groups (DTG), stockpiling supplies, and conducting offensive rehearsal exercises. VII Corps HQ arrived at APOD HOUSTON (15RTN900771) on 14 July 2024 to serve as CJTF-7’s Combined Forces Land Component. North Torbia began strikes on South Torbia on the night of 25 July 2024 and destroyed six Sing Komm Low Earth Orbit satellites in addition to severing undersea fiber optic data links between South Torbia and other Asian nations. 4 (TP) MECHINF DTG and 6 (TP) MECHINF DTG conducted a full-scale invasion of South Torbia on 26 July 2024. On 27 Jul 2024, 4 (TP) MECHINF DTG attacked to seize Shreveport and other population centers in South Torbia with a high volume of nonpersistent chemical munitions delivered by SSBM and MLRS. North Torbia has demanded the annexation of South Torbian territory heavily populated with large ethnic North Torbian enclaves in northern and northeastern South Torbia, insists on immediate removal of all Western forces from the region, and demands control of South Torbia’s nuclear power resources and infrastructure. The International Community responded with the following actions: the United Nations (UN) issued UNSCR 2581 condemning North Torbia’s invasion of South Torbia and invoking Chapter VII of the UN Charter, the U.S. Ambassador to South Torbia issued a disaster declaration, the President of the United States authorized military operations in the Luzon Island Region, and Australia deployed its 1 (AU) Division to APOD HOUSTON to serve as the VII Corps Reserve. On 30 July 2024, CJTF-7 initiated an air campaign and naval operations against North Torbian forces with 5 Air Expeditionary Task Force (5 AETF) and Carrier Task Force-70 (CTF-70)). South Torbian forces continue to defend in depth to delay North Torbian forces, trading space for time to allow VII Corps Forces to initiate forcible entry operations into AO JAYHAWK and execute multidomain operations to defeat enemy forces.
+1.a. (U) Friendly Forces.
+1.a.1. (U) Higher Headquarters two Levels Up.
+
+       1.a.1.a. (U) Mission: VII Corps initiates multidomain operations in AO JAYHAWK NET 080001 August 2024 to defeat enemy forces in occupied South Torbia and protect vital U.S. interests and support South Torbian civil and military authorities.
+
+       1.a.1.b. (U) Purpose: The purpose of this operation is to expel North Torbian forces from occupied South Torbia to restore and protect the territorial integrity of South Torbia, protect U.S. citizens and designated TCN, protect critical infrastructure, and prevent a humanitarian crisis.
+       1.a.1.c. (U) Key Tasks: 
+          1.a.1.c.1. : In coordination with South Torbian Security Forces, defeat or expel North Torbian forces from South Torbia to restore South Torbian territorial integrity.
+          1.a.1.c.2. : Synchronize efforts with and support U.S. government agencies, international organizations, NGOs, and South Torbian government to protect U.S. national interests.
+          1.a.1.c.3. : Assist South Torbian Security Forces to liberate and protect critical infrastructure.
+          1.a.1.c.4. : Protect and evacuate U.S. citizens and designated Third Country Nationals (TCN) as directed.
+          1.a.1.c.5. : Terminate military operations as quickly as possible.
+(U) End State
+          1.a.1.c.6. : Friendly: VII Corps Forces integrated with South Torbian Security Forces and prepared to conduct follow-on operations or to redeploy.
+          1.a.1.c.7. : Enemy: North Torbian forces defeated or withdrawn from South Torbia.
+          1.a.1.c.8. : Terrain: Pre-conflict international border between North Torbia and South Torbia restored.
+          1.a.1.c.9. : Civil: South Torbia government control established within pre-conflict borders.
+1.a.2. (U) Higher Headquarters one Level Up. 
+       1.a.2.a. (U) Mission: The 101st ABN (AASLT) executes a L2A2 to disrupt North Torbian forces in AO EAGLE NLT POD 14-15 AUG 2024 IOT enable 21st ABN offensive operations.
+       1.a.2.b. (U) Purpose. The purpose of this operation is to execute a forcible entry to defeat North Torbian forces and restore the pre-conflict international border between North and South Torbia.
+       1.a.2.c. (U) Key Tasks.
+          1.a.2.c.1. (U) Command and Control an L2A2 from Belesia (FCKY) to AO EAGLE (FJLA Training Area).
+          1.a.2.c.2. (U) Set conditions through multi-domain fires and effects to enable the L2A2 and GTP.
+          1.a.2.c.3. (U) Conduct sustainment and C2 operations in a contested environment.
+          1.a.2.c.4. (U) Execute multiple rehearsals and deliberate planning to ensure a seamless transition from WFX 24-05 to JRTC 24-10.
+1.a.2.d. (U)  End State.
+          1.a.2.d.1. (U) Friendly: 2MBCT fully deployed to AO EAGLE and prepared for follow on operations.
+          1.a.2.d.2. (U) Enemy: North Torbian forces defeated in AO EAGLE and unable to mass combat power on 5 ID.
+          1.a.2.d.3. (U) Terrain: Key terrain and infrastructure inside AO EAGLE controlled.
+          1.a.2.d.4. (U) Civil: South Torbian government control established in AO EAGLE.
+1.b. Key Assumptions
+1.b.1. TOA to 21 ABN DIV: 17 AUG (after mission night #3)
+1.b.2. After TOA, first mission will be to defend against enemy counterattack from the west.
+1.b.3. Subsequent missions will be offensive operations to the west.
+1.b.4. Final OBJ: OBJ TITANS (Shughart-Gordon)
+2. (U) MISSION:  2MBCT (TF STRIKE) conducts a vertical envelopment to disrupt 4th DTG support area and seize key terrain in AO BEAR NLT H+72 IOT build combat power and enable 21st ABN DIV offensive operations.
+3. (U) EXECUTION: 
+3.a. (U) Commander’s Intent. 
+     3.a.1. (U) Key Tasks.
+        3.a.1.a. (U) Conduct Air Assault forcible entry across dispersed LZs to mass PLT-sized cohesive units across AO BEAR.
+        3.a.1.b. (U) Gain and maintain contact with ENY with sensors and fires before maneuver elements make initial contact.
+        3.a.1.c. (U) Conduct movement to contact to disrupt enemy on OBJs PUMA, OCELOT, and BADGER to create multiple dilemmas for the enemy.
+        3.a.1.d. (U) Posture information collection, fires, and sustainment to enable transition to defensive operations.
+        3.a.1.e. (U) Sustain operations using aerial resupply for 72-96 hours to extend operational reach and prevent culmination.
+        3.a.1.f. (U) Open and control GLOCs to enable follow-on operations and regain initiative.
+3.a.2. (U) End State.
+       3.a.2.a. (U) Friendly: 2MBCT defending from key terrain and building combat power to resume offensive operations.
+       3.a.2.b. (U) Enemy: 4 DTG rear area forces destroyed in AO BEAR, 4 DTG posturing for C-ATK outside AO BEAR.
+       3.a.2.c. (U) Terrain: Key terrain seized in AO BEAR and GLOCs controlled.
+       3.a.2.d. (U) Civil: Collateral damage minimized and civilians unable to influence 2MBCT operations.
+  3.b. (U) Concept of the Operation. The purpose of this operation is to land in the enemy’s rear area, disrupting their operations and denying their freedom of maneuver to enable 21 ABN DIV offensive operations. Decisive to this operation is the seizure of OBJ BADGER and OBJ TIGER by the end of mission night #3 (17 0300 AUG 24) with the MFRC observing OBJ TITANs and key enemy AoAs IOT posture for the enemy counterattack and future friendly offensive operations. This operation will be conducted in five phases: Phase I (Planning and Preparation), Phase II (L2A2), Phase III A (Destroy Enemy), Phase III B (Seize Key Terrain), Phase III C (Hasty Defense), Phase IV (Defend) and Phase V (Attack). This operations order focuses on Phases I-III.
+
+     3.b.1. (U) Phase I: Plan and Prep begins with receipt of mission and ends with wheels up on lift one 13 AUG 24. Critical tasks for this phase include BDE OPORD brief, CDR back briefs, BDE CAR, cold load training, and RXLs.
+     3.b.2. (U) Phase II: L2A2 begins with wheels up lift 1 and ends with wheels down lift 1in AO BEAR. Critical tasks for this phase include cherry/Ice call, RON, Bump plans, and intel updates.
+     3.b.3. Phase III A: Conduct Movement to Contacts to Destroy Enemy begins with wheels down lift one in AO BEAR and ends with enemy destroyed on OBJs PUMAL. and OCELOT (NLT end of Mission Night #2). Critical tasks for this phase include. Sense and destroy enemy, establish recon on OBJ TITANs, build combat power, and sustainment operations.
+     3.b.4. (U) Phase III B: Seize Key Terrain begins with enemy destroyed on OBJs PUMA and OCELOT and ends with OBJs TIGER and BADGER seized (NLT end of Mission Night #3).  Critical task for this phase is seizure of key terrain, transition to a hasty defense, and sustainment operations to include prepositioning CL IV.
+     3.b.5. (U) Phase III C: Hasty Defense begins with OBJs TIGER and BADGER seized and ends with TOA to 21st ABN. Critical tasks for this phase include consolidation and reorganization of combat power, engagement area development, opening of GLOCs, rear area security operations, sustainment operations, and TOA to 21st ABN.
+     3.b.6. (U) Phase IV: Defend begins with TOA to 21st ABN and ends with defeating enemy CATK. Critical tasks during this phase include EA DEV, maintain control of GLOCs, Establishment of the BSA, and the ENY CATK defeated.
+     3.b.7. (U) Phase V: Attack begins with defeating enemy CATK and ends with OBJ TITANS seized. Critical tasks for this phase include resupply, pre-assault fires, breach, secure foothold inside OBJ TITANS, and mass effects.
+3.c. (U) Scheme of Maneuver. 
+3.c.1. (U) Phase I:Plan and Prep. See planning timeline
+     3.c.2. (U) Phase II: L2A2. This phase begins at 13 1000 AUG 24 with Lift 1 W/U from CAAF. CH-47 and UH-60 Serials will conduct different flight routes. CH-47 Serials will conduct a Remain Overnight (RON) at FARP CONOCO (Tunica, MS). UH-60 Serials will RON at FARP BP (Oxford, MS). W/U from RON Sites is ~14 1900 AUG 24. CH-47 Serials will conduct a hot refuel at FARP SPEEDWAY (Minden, LZ) and the UH-60 Serials at FARP EXXON (Monroe, LA). This phase ends with Lift 1 W/D AO BEAR (H-HR) at 14 2230 AUG 24.
+Details about RON will be published following the AMCM.
+     3.c.3. (U) Phase III A: Destroy Enemy. This phase begins at approximately 14 2230 AUG 24 (H Hour) with the first elements of Strike landing at assigned HLZs in AO BEAR. The MFRC is the ME this phase. Upon wheels down Lift 1 MFRC HKP1 will conduct deep reconnaissance on ASR URANIUM and OBJ TITANS to enable future BDE operations. HKP2 will conduct area reconnaissance between PL BRONZE and ELM IOT enable fires and maneuver forces from 1-502 IN and 1-320 FAR. HKP3 will land on Lift 2 and begin movement for area reconnaissance on OBJ BADGER to isolate with fires from the east. 1-502 IN (SE1) will conduct simultaneous movements upon landing. One element will conduct a search and attack between PL PEWTER and BRONZE to destroy ENY HPTs. The other element will begin to mass combat power west of OBJ BADGER IOT facilitate future offensive operations. 1-26 IN (SE2) will secure Hideaway DZ to enable the infil of a M119 BTRY and then conduct movement to contact to destroy enemy on OBJ OCELOT NLT 16 0300 AUG 24. 2-502 IN (SE3) conducts movement to contact to destroy enemy on OBJ PUMA NLT 16 0500 AUG 24 and begin initial movement towards seizing OBJ TIGER. 1-320 FA (SE4) will infil 1x M119 BTRY on Lift 2 to establish PAA 38, and 1x M119 BTRY on Lift 3 to establish PAA 20.
+At endstate, the enemy on OBJs PUMA and OCELOT are destroyed, enemy HPTs west of Red Leg Lake are destroyed, and 1-502 IN and 2-502 IN are postured to begin seizing OBJs BADGER and TIGER.
+     3.c.4. Phase III B: Seize Key Terrain.This phase begins with the enemy destroyed on OBJ OCELOT and PUMA. 1-502 IN (ME) attacks to seize OBJ BADGER NLT 17 0300 AUG 24 and transitions to establish a hasty defense IVO OBJ BADGER oriented west. As 1-502 IN forces reposition east, they will establish disrupt obstacles and decoys to deceive the enemy into thinking Strike is defending further to the west. 2-502 IN (SE1) attacks to seize OBJ TIGER NLT 17 0300 AUG 24 and transitions to establish hasty defense IVO OBJ TIGER. The MFRC (SE2) conducts continued area reconnaissance west of Red Leg Lake and IVO OBJ TITANS to disrupt the enemy and enable future offensive operations. 1-26 IN (SE3) repositions to control RTE APPLE and reconstitutes combat power to prepare for offensive operations to the west. 1-320 FA (SE4) destroys enemy fires and maneuver to enable friendly freedom of maneuver to seize the OBJs. 526 LSB (SE5) will enable aerial resupply NLT to set conditions for the BDE to seize key terrain.
+At endstate, OBJs TIGER and BADGER are seized, the MFRC is conducting area recon west of Red Leg Lake with one HKP conducting refit, and 1-26 IN controls RTE APPLE and is preparing for future offensive operations.
+     3.c.5. Phase III C: Hasty Defense.This phase begins with OBJs TIGER and BADGER seized and ends with TOA to 21st ABN. 1-502 IN (ME) and 2-502 IN (SE1) conduct a rapid transition to hasty defense IVO OBJs TIGER and BADGER and conduct consolidation and reorganization of combat power, engagement area development, and begin opening of GLOCs. MFRC (SE2) will conduct deliberate resupply and counter reconisspance operations. 1-320 FA will reposition both M119 BTRY to support the defense and prepares to receive M777 Battery from 101 ABN DIV. 1-26 IN (SE3) controls RTE APPLE NLT 17 0600 AUG 24 and prepares to conduct offensive operations.
+At endstate (NLT 17 1800 AUG 24), 2MBCT is postured to conduct a transfer of authority (TOA) from 101st ABN DIV to 21st ABN DIV. 1-502 IN (ME) is defending IVO OBJ BADGER. 2-502 IN (SE1) is defending IVO OBJ TIGER. MFRC (SE2) is conduct area recon with 1x HKP oriented on OBJ TITANS and ENY AoAs along northern corridor, 1x HKP oriented on ENY AoAs along southern corridor, and 1x HKP conducting consolidation and reorganization for future operations. 1-26 IN controls RTE APPLE and is prepared to conduct offensive operations. 1-320 FA (SE 3) is established in PAAs ISO defensive operations. 526 BSB (SE4) is opening GLOCs to establish BSA 
+3.c.6. Phase IV: Defend. TBP upon receipt of 21ABN DIV Order.
+
+3.c.7. Phase V: Attack. TBP upon receipt of 21ABN DIV Order.
+
+  3.d. Scheme of Tactical Deception. The purpose of tactical deception in PH IIIA – IIIB is to deter enemy forces on OBJ TITANS from reinforcing IVO OBJs TIGER and BADGER. MFRC feigns combat power east of OBJ TITANS via decoy emitters along and between PL HAZLENUT and PL ELM. 2-502 feigns a M119 BTRY via decoy emitters south of OBJ TIGER IVO PAA 19. 1-502 emplaces disruption obstacles and decoy emitters from PL ELM to PL DRACAENA in preparation for PH IIIC-IV. In PH IIIC – IV, deception operations emphasize feigning a defense in depth IOT delay enemy counterattack of OBJs TIGER and BADGER, draw enemy forces South, and increase time for FF’s to establish a hasty defense on the OBJs. 1-502 continues to emplace disruption obstacles and decoy emitters from PL DRACAENA to PL STEEL. Subsequent deception operations are contingent upon, and planned in conjunction with, the arrival of the GAF.
+ 
+3.e. (U) Tasks to Subordinate Units.
+3.e.1. (U) 1-502.
+       3.e.1.a. (U) Conduct movement to contact to destroy ENY HPTs between PL PEWTER and PL BRONZE NLT 15 0800 AUG 24.
+       3.e.1.b. (U) Seize OBJ BADGER NLT 17 0300 AUG 24.
+       3.e.1.c. (U) Establish hasty defense IVO OBJ BADGER NLT 17 0600 AUG 24. BPT transition to deliberate defense.
+       3.e.1.d. (U) Resupply MFRC hunter-killer teams with class I prior to the seizure of OBJ BADGER.
+       3.e.1.e. (U) Receive one (1) rifle company OPCON from 1-26 starting on 19 July (BDE CAR 1) through phase 2 of the operation.
+       3.e.1.f. (U) Provide one (1) rifle company to serve as the BDE Reserve starting on 13AUG24 for the duration of the operation.
+       3.e.1.g. (U) Submit HLZ requests to BDE BAO CPT McBride NLT 16 1200 JUL 24.
+       3.e.1.h. (U) Minimum medical assets on ground for POD1 are 1x 65D, 1x 68W30, 2x 68W10.
+       3.e.1.i. (U) Minimum medical assets on ground following POD2 is 2x FLA.
+
+       3.e.1.j. (U) Provide MTR Support ISO HKP3 IVO OBJ BADGER. 
+
+       3.e.1.k. (U) Provide bottom up refinement to Appendix 5 tab B Air Movement Table to the BAO CPT Logan McBride NLT 16 1300 JUL 24. Refer to Enclosure 2. Combat Power Buildup for initial A/C allocation. 
+       3.e.1.l. Clear PAA 20 NLT 15 000 AUG 24 to allow B Battery, 1-320 FA to land and occupy on lift 2.  
+3.e.2. (U) 2-502.
+       3.e.2.a. (U) Conduct movement to contact to destroy ENY IVO OBJ PUMA NLT 16 0300 AUG 24.
+3.e.2.b. (U) Seize OBJ TIGER NLT 17 0300 AUG 24.
+       3.e.2.c. (U) Establish a hasty defense IVO of OBJ TIGER NLT 17 0600 AUG 24. BPT transition to deliberate defense.
+       3.e.2.d. (U) Minimum medical assets on ground for POD1 are 1x 65D, 1x 68W30, 2x 68W10.
+3.e.2.e. (U) Minimum medical assets on ground following POD2 is 2x FLA.
+       3.e.2.f. (U) Submit HLZ requests to BDE BAO CPT McBride NLT 16 1200 JUL 24. HLZ selection must be north of PL BRONZE and east of PL DRACAENA. 
+       3.e.2.g. (U) Provide bottom up refinement to Appendix 5 tab B Air Movement Table to the BAO CPT Logan McBride NLT 16 1300 JUL 24. Refer to Enclosure 2. Combat Power Buildup for initial A/C allocation. 
+
+3.e.3. (U) 1-26.
+       3.e.3.a. (U) BPT provide one (1) rifle company OPCON to 1-502 from 19 July (BDE CAR 1) until phase 3 of the operation.
+       3.e.3.b. (U) Conduct movement to contact to destroy ENY IVO OBJ OCELOT NLT 16 0300 AUG 24.
+       3.e.3.c. (U) Control RTE APPLE NLT 17 0600 AUG 24.
+       3.e.3.d. (U) BPT conduct offensive operations to the west.
+       3.e.3.e. (U) Secure Hideaway DZ NLT 15 0500 AUG 24.
+       3.e.3.f. (U) Minimum medical assets on ground for POD1 are 1x 65D, 1x 68W30, 2x 68W10.
+       3.e.3.g. (U) Minimum medical assets on ground following POD2 is 2x FLA.
+       3.e.3.h. (U) Submit HLZ requests to BDE BAO CPT McBride NLT 16 1200 JUL 24. HLZ selection must be south of PL Bronze and east of the 04 Easting. May not use HLZ 26, may not use Hideaway HLZ during lift two and three. 
+       3.e.3.i. (U) Provide bottom up refinement to Appendix 5 tab B Air Movement Table to the BAO CPT Logan McBride NLT 16 1300 JUL. Refer to Enclosure 2. Combat Power Buildup for initial A/C allocation.
+
+       3.e.3.j. (U) Clear PAA 38 NLT 15 000 AUG 24 to allow A Battery, 1-320 FA to land and occupy on lift 2.  
+       3.e.3.k. (U) BPT conduct deception operations. 
+
+3.e.4. (U) MFRC.
+3.e.4.a. (U) Conduct area reconnaissance of OBJ TITANS and OBJs BADGER. 
+       3.e.4.b. (U) Sense and destroy HPTs to disrupt ENY forces and enable friendly freedom of maneuver.
+       3.e.4.c. (U) Submit HLZ requests to BDE BAO CPT McBride NLT 16 1200 JUL 24.
+
+       3.e.4.d. (U) BPT conduct deception operations via decoy emitter between PL ELM and HAZLENUT. 
+
+       3.e.4.e. (U) Provide bottom up refinement to Appendix 5 tab B Air Movement Table to the BAO CPT Logan McBride NLT 16 1300 AUG 24. Refer to Enclosure 2. Combat Power Buildup for initial A/C allocation.
+
+3.e.5. (U) 1-320th.
+       3.e.5.a. (U) Destroy ENY Fires and Maneuver to enable friendly freedom of maneuver.
+       3.e.5.b. (U) Infil 1x M119 Battery on Lift 2 and establish IVO PAA 38.
+       3.e.5.c. (U) Infil 1x M119 Battery on Lift 3 and establish IVO PAA 20.
+       3.e.5.d. (U) Provide PAA refinement to BDE Fires NLT 17 1700 JUL 24.
+       3.e.5.e. (U) Provide M777 OPCON to DIVARTY for division pre-assault fires for 12-15 AUG. 
+       3.e.5.f. (U) Receive and support 1x Sentinel Radar (MPQ-64) from DIVARTY for duration of 24-10 rotation.
+       3.e.5.g. (U) Submit HLZ requests to BDE BAO CPT McBride NLT 16 1200 JUL 24.
+       3.e.5.h. (U) Provide bottom up refinement to Appendix 5 tab B Air Movement Table to the BAO CPT Logan McBride NLT 16 1300 JUL 24. Refer to Enclosure 2. Combat Power Buildup for initial A/C allocation. 
+
+3.e.6. (U) SHHC.
+       3.e.6.a. (U) Receive OPCON one CEC-I from 39th DEB on 08JUL until completion of redeployment from JRTC 24-10.
+       3.e.6.b. (U) Air Assault BDE MCP on lift two.
+       3.e.6.c. (U) Provide bottom up refinement to Appendix 5 tab B Air Movement Table to the BAO CPT Logan McBride NLT 16 1300 JUL 24. Refer to Enclosure 2. Combat Power Buildup for initial A/C allocation. 
+
+3.e.7. (U) 526 LSB.
+3.e.7.a. (U) Conduct aerial sustainment operations from APOD ALEX.
+       3.e.7.b. (U) O/O Conduct ground movement from APOD ALEX into AO BEAR and establish BSA IVO Hideaway DZ.
+3.e.8. (U) 194 MP CO.
+3.e.8.a. (U) Provide two MP Squads ISO MCP and PAA security.
+3.e.8.b. (U) Provide rapid mobility and security support to GAF during JFE.
+       3.e.8.c. (U) Provide conduct detainee operations throughout all phases of the operation.
+3.e.8.d. (U) Conduct rear area security IVO BSA.
+3.e.9. (U) A/39 DEB (CEC-I)
+3.e.9.a. (U) Provide two Sapper PLTs to 1-502 IN BN.
+3.e.9.b. (U) Provide one Sapper PLT to 2-502 IN BN.
+3.f. (U) Coordinating Instructions:
+3.f.1. (U) Planning Timeline.
+TimeEventLocationAudience17 1300 JULL2A2 AMCMWild Turkey Conf RoomBDE S3, BAO, S2, FSO, S4, S6
+BN S318 1400 JULIC/Fires RXLSabo GymBDE S3, FSO, S2
+FSCOORD, FA BN Staff
+BN S3, FSO, S216 1500 JULSUST RXLSabo GymBDE CSM, S3, S4, MEDO
+BN CSMs, S3, S4, MEDO19 1000 JULCAR #1Sabo GymBDE Top 5, Staff Primaries
+BN Top 5
+CO CDRs24 1500 JULL2A2 AMBMCRBDE Top 5, S2, FSO, S4, S6
+BN CDR, S325 1300 JULDIV CAR #1TBDBDE Top 5, S2, FSO
+BN CMD Teams29 JULIC/Fires RXL TBDBDE S3, FSO, S2
+FSCOORD, FA BN Staff
+BN S3, FSO29 JULSUST RXLTBDBDE CSM, S3, S4, MEDO
+BN CSMs, S3, S4, MEDO30 JULCAR #2TBDBDE Top 5, Staff Primaries
+BN Top 5
+CO CDRs03-04 AUGTorch/Advon05-08 AUGMain Body Bus Movements06 0930 AUGL2A2 AMB #2MCRTBD09 1400 AUGDIV CAR #2TBDTBD10 AUGTrail Bus Movement11 AUG (T)Lift 1 Full Dress RehearsalCAAFAll Lift 1 PAX13 AUGLift 1 – CAAF to RON SitesCAAF
+RON SitesAll Lift 1 PAX14 2230 AUGH-HR
+Lift 1 W/D AO BEARAO BEARAll Lift 1 PAX17 AUGTOAAO BEAR 
+     3.f.2. (U) [1-502 IN, 2-502 IN, 1-26 IN, 1-320 FA, MFRC, SHHC] Provide bottom up refinement to Appendix 5 tab B Air Movement Table to the BAO CPT Logan McBride NLT 16 1300 AUG 24. Refer to Enclosure 2. Combat Power Buildup for initial A/C allocation..
+     3.f.3. (U) [1-502 IN, 2-502 IN, 1-26 IN, 1-320 FA, MFRC, SHHC] Complete SUAS Qualification and Currency Status (ENCL 1) and return to BAO NLT 12 July 2024. POC is CPT Logan McBride at logan.b.mcbride.mil@army.mil.
+     3.f.4. (U) [1-502 IN, 2-502 IN, 1-26 IN, 1-320 FA, MFRC, SHHC] Identify 3x Stinger Teams and provide crew roster (each team consisting of 2x personnel, Team Chief and Gunner) to primary CPT Currie at christopher.j.currie5.mil@army.mil and secondary CW2 Hamilton at matthew.b.hamilton7.mil@army.mil NLT 24JUL24. Total of 3x Stinger Teams consisting of 6 total personnel.
+     3.f.5. (U) [1-502 IN, 2-502 IN, 1-26 IN, 1-320 FA, MFRC, SHHC] BPT provide all Stinger Team Personnel and signature card holder during RSOI at FJLA to receive Stinger MANPADS and Miles Gear training/operations and sign for the equipment. Plan for this to be conducted over a 3–4-hour timeframe.
+     3.f.6. (U) [1-502 IN, 2-502 IN, 1-26 IN, 1-320 FA, MFRC, SHHC] Provide by name roster of personnel who will operate C-sUAS 7x Dronebuster BLK 3, 5x Bal Chatri, and 9x MODI during 24-10 IOT disrupt / deny Red Air sUAS operations. Roster is due to primary CPT Currie at christopher.j.currie5.mil@army.mil and secondary CW2 Hamilton at matthew.b.hamilton7.mil@army.mil NLT 24JUL24.
+     3.f.7. (U) [1-502 IN, 2-502 IN, 1-26 IN, 1-320 FA, MFRC, SHHC] BPT provide all C-UAS personnel during RSOI to receive familiarization and hands-on training from PEO M&S IFRCO C-sUAS MTT personnel.
+
+     3.f.8. (U) [1-502 IN, 2-502 IN, 1-26 IN, 1-320 FA] Provide number of excess CROPS for CL IV bundles to CPT Juan Patino NLT 15JUL24 via email at juan.j.patinotamayo.mil@army.mil.
+
+     3.f.9. (U) [1-502 IN, 2-502 IN, 1-26 IN] Provide a by BN count of decoy emitters to WO1 Pham NLT 15JUL24 via email at phi.m.pham.mil@army.mil. 
+
+     3.f.10. (U) Planned H-HR for Lift 1 wheels down AO BEAR is 14 2230 AUG.
+
+4. (U) SUSTAINMENT: 526 LSB will provide sustainment support through multi-class aerial and tactical road march resupplies from BSA in support of Operation Eagle Fury. BNs are responsible for securing Logistics Release Points (LRmeP) and Ambulance Exchange Points (AXP). Supporting units are responsible for contacting supported units to coordinate for route security. Refer to Annex F (Sustainment) as required. 
+4.a. (U) Logistics 
+4.a.1. (U)Priority of Support
+4.a.1.a. Phase I: 2-502 IN, 1-502 IN, 1-320 FA, MFRC, 1-26 IN, 526 LSB
+4.a.1.a.1. Priority of Supply: CL I (W), CL V, and CL IV
+4.a.1.b. Phase II: 1-320 FA, 2-502 IN, 1-502 IN, 1-26 IN, MFRC, 526 LSB
+4.a.1.b.1. Priority of Supply: CL V, CL I (W), and CL IV
+4.a.1.c. Phase III: 2-502 IN, 1-26 IN, 1-502 IN, 1-320 FA, MFRC, 526 LSB
+4.a.1.c.1. Priority of Supply: CL IV, CL I (W), CL V, CL VIII
+4.a.1.d. Phase IV: 2-502 IN, 1-26 IN, 1-502 IN, 1-320 FA, MFRC, 526 LSB
+4.a.1.d.1. Priority of Supply: CL I (W), CL V, CL III
+4.a.2. (U)Scheme of Support: See Annex F (TBP) 
+4.a.3. (U)Maintenance
+       4.a.3.a. (U) Maintenance and Dispatch cycle is 72 hours. All dispatches require field-level QA/QC to validate the DA Form 2404/5988E. Cannibalization not authorized; controlled substitution as approved by BCT CDR. Report 026/Unit Combat Power to 526 LSB daily at 0600/1800.
+4.a.4. (U)Transportation: TBP 
+4.a.5. (U)Mortuary Affairs 
+       4.a.5.a. (U) All units moving forward of PL BEECH (LD) will add human remains to individual packing list. Units will utilize DA FORM 1156 (Casualty Feeder Card) to the Mortuary Affairs Transportation Collection Point (MATCP). Knowledgeable personnel, if available, will personally identify the remains and execute DD Form 565 (Statement of Recognition of Deceased). Unidentified remains are assigned an evacuation number on the DD Form 565. Contact the MATCP for assigned evacuation numbers.
+4.a.6. (U) Medical
+4.a.6.a. (U) See Appendix 3 to Annex F Health Services Support.	
+5. (U) COMMAND AND SIGNAL:
+BDE -> BN: VOICEBDE -> BN DIGITALP: UPPER TI (TEAMS/ICE) P: UPPER TIA: MUOS (SBU-E)A: MMCC: TSMC: TAK-LTEE: FM E: TAK-TSME 2: HF
+5.a. (U) Succession of Command.  STRIKE 6, TALON 6, FALCON 6, SPADER 6.
+5.b. (U) Command posts. See Base Orders
+ACKNOWLEDGE. 
+
+
+
+
+                                    STULTZ
+                                    COL
+
+
+OFFICIAL:
+Marx
+S3
+
+ANNEX:
+
+Annex A – Task Organization
+Annex B – Intelligence 
+Annex C – Operations
+Annex D – Fires
+Annex E – Protection
+Annex F – Sustainment 
+Annex H – Signal
+Annex L – Information Collection
+
+
+
+Attachments:
+
+Enclosure 1 – SUAS Qualification and Currency Status Memorandum 
+Enclosure 2 – Combat Power Buildup
+
+
+     
+ 
+CLASSIFICATION
+(CONTROLLED UNCLASSIFIED INFORMATION)
+
+OPORD 290-24 OPERATION STRIKE FURY 2MBCT, 101 ABN DIV (AASLT) and FT Campbell
+
+
+6
+CLASSIFICATION
+(CONTROLLED UNCLASSIFIED INFORMATION)
+
+
+
+CLASSIFICATION
+(CONTROLLED UNCLASSIFIED INFORMATION)
+
+
+1
+CLASSIFICATION
+(CONTROLLED UNCLASSIFIED INFORMATION)
+
+
